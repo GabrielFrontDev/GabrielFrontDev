@@ -5,13 +5,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielFrontDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFrontDev&layout=compact&langs_count=7&theme=dark"/>
     </div>
-
-
   <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img img align="center" alt="Gabriel-CSS" height="55" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />      
-
-
 
 ##
 
@@ -34,7 +30,6 @@
                 src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
                 target="_blank"></a>
                 
-
  ![Snake animation](https://github.com/GabrielFrontDev/GabrielFrontDev/blob/output/github-contribution-grid-snake.svg)
 </div>
 

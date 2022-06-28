@@ -19,6 +19,9 @@
         <a href="https://discord.gg/wagxzStdcR" target="_blank"><img
                 src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
                 target="_blank"></a> <a href="https://discord.gg/wagxzStdcR" target="_blank"><img
+            src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"
+            target="_blank"></a> 
+                <a href="https://discord.gg/wagxzStdcR" target="_blank"><img
                 src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"
                 target="_blank"></a>
         <a href="https://discord.gg/wagxzStdcR" target="_blank"><img
@@ -32,7 +35,11 @@
                 target="_blank"></a> <a href="https://https://github.com/GabrielFrontDev/wagxzStdcR"
             target="_blank"><img
                 src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
-                target="_blank"></a>
+                target="_blank"></a> <a href="https://discord.gg/wagxzStdcR" target="_blank"><img
+            src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"
+            target="_blank"></a>
+                
+        
                 
  ![Snake animation](https://github.com/GabrielFrontDev/GabrielFrontDev/blob/output/github-contribution-grid-snake.svg)
 </div>

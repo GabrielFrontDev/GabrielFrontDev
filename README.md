@@ -1,16 +1,20 @@
-## Hi there, I'm Gabriel | Web developer Trainee 👋
+## Hola, Soy Gabriel | Desarrollador Web Trainee  👨🏽‍💻
 <div align="">
 
   <a href="https://github.com/GabrielFrontDev">
   <img  width="49%" src="https://github-readme-stats.vercel.app/api?username=GabrielFrontDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img  width="48.6%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFrontDev&layout=compact&langs_count=7&theme=dark"/>
-    </div>
+    </div></a>
+    
+ ###  Tecnologías Que Manejo   
+ 
+   <a href="https://github.com/GabrielFrontDev">
   <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img img align="center" alt="Gabriel-CSS" height="55" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />      
 
 ##
-
+### Tecnologias Que Quiero Aprender
  <div style="display: inline_block">
         <a href="https://discord.gg/wagxzStdcR" target="_blank"><img
                 src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"

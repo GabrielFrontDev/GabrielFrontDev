@@ -1,4 +1,4 @@
-## Hi there, I'm Gabriel 👋
+## Hi there, I'm Gabriel | Web developer Trainee 👋
 <div align="">
 
   <a href="https://github.com/GabrielFrontDev">

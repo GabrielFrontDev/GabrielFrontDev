@@ -21,9 +21,7 @@
 ##
 ### Tecnologias Que Quiero Aprender
  <div style="display: inline_block">
-        <a href="https://discord.gg/wagxzStdcR" target="_blank"><img
-                src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
-                target="_blank"></a> <a href="https://discord.gg/wagxzStdcR" target="_blank"><img
+        </a> <a href="https://discord.gg/wagxzStdcR" target="_blank"><img
             src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"
             target="_blank"></a> 
                 <a href="https://discord.gg/wagxzStdcR" target="_blank"><img
@@ -42,7 +40,13 @@
                 src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
                 target="_blank"></a> <a href="https://discord.gg/wagxzStdcR" target="_blank"><img
             src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"
-            target="_blank"></a>
+            target="_blank"></a> <a href="https://discord.gg/wagxzStdcR" target="_blank"><img
+                src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
+                target="_blank"></a>
+  
+   
+  
+  
                 
         
                 
